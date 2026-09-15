@@ -32,7 +32,7 @@ It's already installed.
 
 2. **Create a new folder called `p1.1-frontend-tools`and open it as a workspace in VSCode. Copy the current `README.md` inside it**.
 
-![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20102413.png)
+![Screenshot](/p1.1-frontend-tools/Images/create-readme.png)
 
 3. **What functionalities do the following VSCode extensions add?**
    - **Bootstrap 5 quick Snippets:**
@@ -57,13 +57,13 @@ I know ErrorLens, ESLint and JavaScript (ES6) code snippets.
 
 6. **Find in VSCode the option in `Settings` to `Format On Save` and activate it. What effect has this option?**
 
-![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20105650.png)
+![Screenshot](/p1.1-frontend-tools/Images/format-save.png)
 
 ### Create a Hello World in JS
 
 7. **Create an `index.html` file inside your worspace folder.**
 
-![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20202905.png)
+![Screenshot](/p1.1-frontend-tools/Images/index.png)
 
 8. **Create the basic html structure using the `!` snippet and change the title to 'Hello World'**
 
@@ -81,7 +81,7 @@ I know ErrorLens, ESLint and JavaScript (ES6) code snippets.
     </html>
     ```
     ---
-    ![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20203118.png)
+    ![Screenshot](/p1.1-frontend-tools/Images/html.png)
 
 
 9.  **Create a new file called `app.js` and add this two lines**
@@ -91,22 +91,22 @@ I know ErrorLens, ESLint and JavaScript (ES6) code snippets.
     document.body.innerHTML = "<h1>Hello document!<h1>"
     ```
     ---
-    ![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20204103.png)
+    ![Screenshot](/p1.1-frontend-tools/Images/app.png)
 
 10. **Import the script in your html using one of the techniques explained in class. Explain here the technique, show the code and justify why did you choose this technique**.
 
-![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20205234.png)
+![Screenshot](/p1.1-frontend-tools/Images/script.png)
 
 I used the "defer" method because it waits until the HTML is fully parsed before running the script, and keeps script order.
 
 
-11. **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
+11.  **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
 
-![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20210659.png)
+![Screenshot](/p1.1-frontend-tools/Images/console.png)
     
-12. **Change some message in the JS code and sava changes. You can check that Live Server refreshes the web page.**
+12.  **Change some message in the JS code and sava changes. You can check that Live Server refreshes the web page.**
 
-![Screenshot](/p1.1-frontend-tools/Images/Captura%20de%20pantalla%202026-09-14%20210807.png)
+![Screenshot](/p1.1-frontend-tools/Images/change-js.png)
 
 ### Create a simple form with Bootstrap 4. 
 
